@@ -10,4 +10,3 @@ python3 portscanner.py [ADDRESS IPV4] [FIRST TCP PORT] [LAST TCP PORT]
 
 ![image](https://github.com/arthur-albuquerque1/pythonprojects/assets/80676157/f39210da-aa34-4f33-8600-3f8b28901a07)
 
-
